@@ -67,3 +67,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets  
 /[Aa]ssets/[Ss]treamingAssets/aa.meta  
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Corgi Engine  
+/Assets/CorgiEngine/  
+/Assets/CorgiEngine.meta  
+
+# vInspector  
+/Assets/vInspector/  
+/Assets/vInspector.meta  
+
+# Hot Reload  
+/Packages/Hot Reload/
